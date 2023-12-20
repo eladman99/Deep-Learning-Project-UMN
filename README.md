@@ -17,7 +17,7 @@ This repository hosts our cutting-edge implementation focusing on imagecolorizat
 
 1. **Model Implementation**: Establishing a baseline model (CGAN).
 2. **WGAN Integration**: adapted the base code for WGAN model.
-3. **OT WGAN- OT principles are being attempted to be added to the WGAN model we created, but with no success.
+3. **OT WGAN**- OT principles are being attempted to be added to the WGAN model we created, but with no success.
 4. **Training and Optimization**
 5. **Evaluation**: Assessing the models.
 6. **Documentation**: Reporting our findings and methodologies.
